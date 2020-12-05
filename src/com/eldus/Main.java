@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Hello World");
         int k;
         k = 10;
+        String s;
+        String d;
     }
 }
